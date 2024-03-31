@@ -69,7 +69,15 @@
         "纪录片",
         "经典片"
       ]
-    },    
+    },
+    {
+      "key": "Iktv",
+      "name": "KTV",
+      "type": 3,
+      "api": "csp_Iktv",
+      "searchable": 1,
+      "changeable": 0
+    }
     {
       "key": "豆瓣",
       "name": "豆瓣",
@@ -81,15 +89,6 @@
       "ext": "./lib/douban.json"
     },
     {
-      "key": "直播转点播",
-      "name": "🐼️┃电视┃直播",
-      "type": 3,
-      "searchable": 0,
-      "api": "./lib/live2vod.js",
-      "ext": "./lib/feimaolive.json"
-    },
-
-    {
       "key": "NanGua",
       "name": "南瓜|弹幕",
       "type": 3,
@@ -98,7 +97,6 @@
       "changeable": 1,
       "ext": "null$$$1"
     },
-
     {
       "key": "索尼资源",
       "name": "索尼┃资源",
@@ -142,7 +140,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
     {
       "key": "櫻花",
       "name": "动漫|櫻花",
@@ -160,13 +157,13 @@
       "changeable": 0
     },
     {
-      "key": "Iktv",
-      "name": "KTV",
+      "key": "直播转点播",
+      "name": "中国┃电视┃直播",
       "type": 3,
-      "api": "csp_Iktv",
-      "searchable": 1,
-      "changeable": 0
-    }
+      "searchable": 0,
+      "api": "./lib/live2vod.js",
+      "ext": "./lib/feimaolive.json"
+    },
   ],
   "lives": [
     {
