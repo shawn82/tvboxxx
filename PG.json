@@ -11,13 +11,13 @@
       "changeable": 0,
       "ext": "0$$$"
     },
-    {
-      "key": "csp_YingShi",
-      "name": "影视 | 海外",
-      "type": 3,
-      "api": "csp_YingShi",
-      "ext": ""
-    },
+//    {
+//      "key": "csp_YingShi",
+//      "name": "影视 | 海外",
+//      "type": 3,
+//      "api": "csp_YingShi",
+//      "ext": ""
+//    },
     {
       "key": "星星",
       "name": "星星 | 海外",
