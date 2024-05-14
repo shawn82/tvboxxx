@@ -18,6 +18,9 @@
 //      "api": "csp_YingShi",
 //      "ext": ""
 //    },
+
+{"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},
+
     {
       "key": "星星",
       "name": "星星 | 海外",
