@@ -2,13 +2,13 @@
   "spider": "./pg.jar",
   "sites": [
     
-{"key": "泥巴","name": "泥巴 | 海外","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"changeable": 0,"ext": "0$$$"},
-{"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},
-{"key": "星星","name": "星星 | 海外","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0,"ext": ""},
+{"key": "泥巴","name": "泥巴 | 影视","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"changeable": 0,"ext": "0$$$"},
+{"key":"影视","name":"影视 | 影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},
+{"key": "星星","name": "星星 | 影视","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0,"ext": ""},
 
      {
        "key": "haiwaikan",
-       "name": "海外看",
+       "name": "海外看 | 影视",
        "type": 1,
        "api": "http:127.0.0.1:10079/p/0/null/https:haiwaikan.com/api.php/provide/vod",
        "playUrl": "json:http:127.0.0.1:10079/parse/?thread=0&proxy=&url=",
@@ -49,43 +49,13 @@
          "欧美综艺"
        ]
      }, 
+    
+{"key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
+{"key": "豆瓣","name": "豆瓣 | 推荐","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"indexs": 1,"ext": "./lib/douban.json"},
+    
+{"key": "直播转点播","name": "中国电视直播","type": 3,"searchable": 0,"api": "./lib/live2vod.js","ext": "./lib/feimaolive.json"},
 
-    {
-      "key": "Iktv",
-      "name": "KTV",
-      "type": 3,
-      "api": "csp_Iktv",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "indexs": 1,
-      "ext": "./lib/douban.json"
-    },
-    {
-      "key": "直播转点播",
-      "name": "中国电视直播",
-      "type": 3,
-      "searchable": 0,
-      "api": "./lib/live2vod.js",
-      "ext": "./lib/feimaolive.json"
-    },
-
-    {
-      "key": "NanGua",
-      "name": "南瓜 | 弹幕",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "null$$$1"
-    },
+{"key": "NanGua","name": "南瓜 | 弹幕","type": 3,"api": "csp_NanGua","searchable": 1,"changeable": 1,"ext": "null$$$1"},
 
     {
       "key": "索尼资源",
