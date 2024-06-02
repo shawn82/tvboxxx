@@ -147,7 +147,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-{"key": "櫻花","name": "动漫 | 櫻花","type": 3,"api": "csp_Ying","searchable": 1,"changeable": },
+{"key": "櫻花","name": "动漫 | 櫻花","type": 3,"api": "csp_Ying","searchable": 1,"changeable": 0},
 {"key": "巴士","name": "动漫 | 巴士","type": 3,"api": "csp_Dm84","searchable": 1,"changeable": 0}
   ],
   
