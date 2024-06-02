@@ -1,16 +1,8 @@
 {
   "spider": "./pg.jar",
   "sites": [
-    {
-      "key": "泥巴",
-      "name": "泥巴 | 海外",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "0$$$"
-    },
+    
+
 //    {
 //      "key": "csp_YingShi",
 //      "name": "影视 | 海外",
@@ -19,17 +11,10 @@
 //      "ext": ""
 //    },
 
-{"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},
+{"key": "泥巴","name": "泥巴 | 海外","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"changeable": 0,"ext": "0$$$"},
+{"key":"影视","name":"影视 | 海外","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},
+{"key": "星星","name": "星星 | 海外","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0,"ext": ""},
 
-    {
-      "key": "星星",
-      "name": "星星 | 海外",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": ""
-    },
 //     {
 //       "key": "haiwaikan",
 //       "name": "海外看",
@@ -117,48 +102,12 @@
          "欧美综艺"
        ]
      }, 
-
-    {
-      "key": "Iktv",
-      "name": "KTV",
-      "type": 3,
-      "api": "csp_Iktv",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "indexs": 1,
-      "ext": "./lib/douban.json"
-    },
-    {
-      "key": "直播转点播",
-      "name": "中国电视直播",
-      "type": 3,
-      "searchable": 0,
-      "api": "./lib/live2vod.js",
-      "ext": "./lib/feimaolive.json"
-    },
-
-    {
-      "key": "NanGua",
-      "name": "南瓜 | 弹幕",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "null$$$1"
-    },
-
-    {
-      "key": "索尼资源",
-      "name": "索尼 ┃ 资源",
-      "type": 1,
+    
+// {"key": "Iktv","name": "KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
+{"key": "豆瓣","name": "豆瓣","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"indexs": 1,"ext": "./lib/douban.json"},
+// {"key": "直播转点播","name": "中国电视直播","type": 3,"searchable": 0,"api": "./lib/live2vod.js","ext": "./lib/feimaolive.json"},
+{"key": "NanGua","name": "南瓜 | 弹幕","type": 3,"api": "csp_NanGua","searchable": 1,"changeable": 1,"ext": "null$$$1"},
+{"key": "索尼资源","name": "索尼 ┃ 资源","type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
         "动作片",
@@ -198,24 +147,10 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
-    {
-      "key": "櫻花",
-      "name": "动漫 | 櫻花",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "巴士",
-      "name": "动漫 | 巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 0
-    }
+{"key": "櫻花","name": "动漫 | 櫻花","type": 3,"api": "csp_Ying","searchable": 1,"changeable": },
+{"key": "巴士","name": "动漫 | 巴士","type": 3,"api": "csp_Dm84","searchable": 1,"changeable": 0}
   ],
+  
   "lives": [
     {
       "name": "live.ipv6",
@@ -613,6 +548,6 @@
     "mgtv",
     "wasu"
   ],
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+  "wallpaper": "",
+  "disabled_wallpaper": ""
 }
