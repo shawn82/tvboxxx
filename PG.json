@@ -4,7 +4,7 @@
 
 //{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"ext": "1"},
 {"key": "泥巴","name": "泥巴 | 影视","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"changeable": 0,"ext": "0$$$"},
-{"key": "影视","name": "影视 | 影视","type": 3,"api": "csp_YingShi","searchable":1,"changeable":1},
+{"key": "影视","name": "影视 | 影视","type": 3,"api": "csp_YingShi","searchable": 1,"changeable": 1},
 {"key": "星星","name": "星星 | 影视","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0,"ext": ""},
 
      {
