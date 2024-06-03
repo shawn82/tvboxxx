@@ -1,5 +1,6 @@
 {
   "spider": "./pg.jar",
+  "wallpaper":"https://深色壁纸.xxooo.cf/",
   "sites": [
 
 //{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"ext": "1"},
@@ -516,6 +517,5 @@
     "mgtv",
     "wasu"
   ],
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+//  "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
