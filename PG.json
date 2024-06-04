@@ -1,9 +1,7 @@
 {
   "spider": "./pg.jar",
-  "wallpaper": “”,
-  "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-／／  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-／／  "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+  //"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  //"disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
 
 //{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"ext": "1"},
