@@ -1,5 +1,7 @@
 {
   "spider": "./pg.jar",
+  "lives":[{"name":"香港","type":0,"url":"http://epg.doube.eu.org/MyTvSuper.m3u“,"playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+],
   "sites": [
     {"key":"haiwaikan","name":"海外看","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
 
