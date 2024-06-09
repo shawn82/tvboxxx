@@ -165,5 +165,7 @@
       "searchable": 1,
       "changeable": 0
     }
-  ]
+  ],
+"lives":[{"name":"World","type":0,"url":"https://raw.githubusercontent.com/shawn82/tvboxxx/master/list/worldv1"}
+]
 }
