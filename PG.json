@@ -55,7 +55,7 @@
     
 {"key": "豆瓣","name": "豆瓣 | 推荐","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"indexs": 1,"ext": "./lib/douban.json"},
 {"key": "NanGua","name": "南瓜 | 弹幕","type": 3,"api": "csp_NanGua","searchable": 1,"changeable": 1,"ext": "null$$$1"},
-{"key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0},
+{"key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar": "./wex.txt"},
 
     {
       "key": "索尼资源",
