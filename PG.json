@@ -269,7 +269,7 @@
 			{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 		],
-		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
-		"wallpaper": "https://shorturl.at/iXdKG"
+		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"]
+／／		"wallpaper": "https://shorturl.at/iXdKG"
 //		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
