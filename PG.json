@@ -3,7 +3,6 @@
   "sites": [
 
 //{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"ext": "1"},
-//{"key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
 //{"key": "直播转点播","name": "中国电视直播","type": 3,"searchable": 0,"api": "./lib/live2vod.js","ext": "./lib/feimaolive.json"},
 
 {"key": "泥巴","name": "泥巴 | 影视","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"changeable": 0,"ext": "0$$$"},
@@ -56,6 +55,7 @@
     
 {"key": "豆瓣","name": "豆瓣 | 推荐","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"indexs": 1,"ext": "./lib/douban.json"},
 {"key": "NanGua","name": "南瓜 | 弹幕","type": 3,"api": "csp_NanGua","searchable": 1,"changeable": 1,"ext": "null$$$1"},
+{"key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0},
 
     {
       "key": "索尼资源",
