@@ -1,5 +1,6 @@
 {
-  "spider": "./pg.jar",
+//  "spider": "./pg.jar",
+  "spider": "./wex.txt",
   "sites": [
 
 //{"key": "泥巴","name": "泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"filterable": 1,"ext": "1"},
