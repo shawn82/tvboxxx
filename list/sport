@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" 
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="⚽| Thể thao",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
